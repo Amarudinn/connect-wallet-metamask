@@ -1,0 +1,26 @@
+{
+  "name": "connect-wallet-metamask",
+  "version": "1.0.0",
+  "description": "Connect Wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amarudinn/connect-wallet-metamask.git"
+  },
+  "keywords": [
+    "connect",
+    "wallet"
+  ],
+  "author": "Amarudinn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amarudinn/connect-wallet-metamask/issues"
+  },
+  "homepage": "https://github.com/Amarudinn/connect-wallet-metamask#readme",
+  "dependencies": {
+    "staking-dapp-tea": "^1.0.0"
+  }
+}
