@@ -1,6 +1,6 @@
 {
   "name": "connect-wallet-metamask",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Connect Wallet",
   "main": "index.js",
   "scripts": {
